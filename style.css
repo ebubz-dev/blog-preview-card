@@ -47,8 +47,11 @@ body {
 }
 .h {
     font-size: 22px;
-    font-weight: 900;
+    font-weight: 1000;
     margin: 0;
+}
+.h:hover {
+    color: hsl(47, 88%, 63%);
 }
 .svg {
     border-radius: 10px;
